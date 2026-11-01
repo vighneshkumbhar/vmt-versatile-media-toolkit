@@ -1,0 +1,18 @@
+{
+  "id": "org.vmt.youtubedownloader",
+  "name": "VMT YouTube Downloader",
+  "version": "1.0.1",
+  "author": "VMT",
+  "description": "First-party YouTube video and audio downloader powered by yt-dlp and FFmpeg.",
+  "category": "utility",
+  "min_vmt_version": "1.0.0",
+  "entrypoint": "extension",
+  "permissions": [
+    "media.read",
+    "media.write",
+    "filesystem.write",
+    "ui.register",
+    "ffmpeg.execute"
+  ],
+  "dependencies": []
+}

@@ -1,0 +1,8 @@
+# Environment secrets & database
+.env
+*.db
+vmt_ecosystem.db
+package_storage/
+quarantine/
+__pycache__/
+*.pyc

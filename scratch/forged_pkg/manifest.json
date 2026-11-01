@@ -1,0 +1,14 @@
+{
+  "id": "com.forged.test1786718572",
+  "name": "Audit Test Extension",
+  "version": "1.0.0",
+  "author": "audit_dev_1786718520",
+  "description": "Extension built for acceptance audit.",
+  "min_vmt_version": "1.0.0",
+  "permissions": [
+    "media.read",
+    "media.write"
+  ],
+  "verified": true,
+  "verification_status": "verified"
+}

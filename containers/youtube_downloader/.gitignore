@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build artifacts & package outputs
+build/*.vmte
+*.vmte
+output/
+yt_test_out/
+
+# Environment & IDE
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

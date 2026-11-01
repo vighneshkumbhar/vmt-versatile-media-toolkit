@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VMT Developer Portal - Login</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="auth-container">
+    <div class="auth-tabs">
+      <div class="auth-tab active" id="tab-login" onclick="switchTab('login')">Login</div>
+      <div class="auth-tab" id="tab-register" onclick="switchTab('register')">Register</div>
+    </div>
+
+    <div id="error-banner" class="error-banner"></div>
+
+    <form id="login-form">
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="login-username" required>
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="login-password" required>
+      </div>
+      <button type="submit" style="width: 100%">Login</button>
+    </form>
+
+    <form id="register-form" style="display: none;">
+      <div class="form-group">
+        <label>Email</label>
+        <input type="email" id="register-email" required>
+      </div>
+      <div class="form-group">
+        <label>Username</label>
+        <input type="text" id="register-username" required>
+      </div>
+      <div class="form-group">
+        <label>Password</label>
+        <input type="password" id="register-password" required>
+      </div>
+      <div class="form-group">
+        <label>Confirm Password</label>
+        <input type="password" id="register-confirm" required>
+      </div>
+      <button type="submit" style="width: 100%">Create Account</button>
+    </form>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

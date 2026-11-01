@@ -1,0 +1,7 @@
+{
+  "id": "com.vmt.examples.ffmpeg",
+  "name": "FFmpeg Example",
+  "version": "1.0.0",
+  "permissions": ["media.read", "ffmpeg.execute", "ui.register"],
+  "category": "video"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "com.vmt.examples.ui",
+  "name": "UI Example",
+  "version": "1.0.0",
+  "permissions": ["ui.register"],
+  "category": "ui"
+}

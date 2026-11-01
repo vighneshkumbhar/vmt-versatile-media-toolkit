@@ -1,0 +1,15 @@
+{
+  "id": "com.vmt.hello",
+  "name": "Hello VMT",
+  "version": "1.0.0",
+  "author": "VMT Team",
+  "description": "A minimal example extension that proves the extension system works.",
+  "min_vmt_version": "1.0.0",
+  "max_vmt_version": null,
+  "category": "utility",
+  "permissions": ["ui.register"],
+  "dependencies": [],
+  "entrypoint": "extension",
+  "website": "https://github.com/vmt-project/vmt",
+  "repository": "https://github.com/vmt-project/vmt"
+}

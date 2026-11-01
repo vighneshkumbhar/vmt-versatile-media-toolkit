@@ -1,0 +1,12 @@
+{
+  "id": "com.audit.test1786718525",
+  "name": "Audit Test Extension",
+  "version": "3.0.0",
+  "author": "audit_dev_1786718520",
+  "description": "Extension built for acceptance audit.",
+  "min_vmt_version": "1.0.0",
+  "permissions": [
+    "media.read",
+    "media.write"
+  ]
+}

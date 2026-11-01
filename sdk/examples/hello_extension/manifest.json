@@ -1,0 +1,10 @@
+{
+  "id": "com.vmt.examples.hello",
+  "name": "Hello Extension",
+  "version": "1.0.0",
+  "author": "VMT Team",
+  "description": "Minimal example extension for VMT developers.",
+  "min_vmt_version": "1.0.0",
+  "category": "utility",
+  "permissions": []
+}

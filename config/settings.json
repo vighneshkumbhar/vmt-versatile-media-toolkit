@@ -1,0 +1,22 @@
+{
+  "output_folder": "F:\\Projects\\ffmpeg easy\\output",
+  "last_format": "MP4",
+  "last_quality": "Recommended",
+  "overwrite_files": false,
+  "hw_acceleration": false,
+  "hw_encoder": null,
+  "theme": "dark",
+  "window_width": 1536,
+  "window_height": 793,
+  "window_x": 8,
+  "window_y": 40,
+  "ffmpeg_path": null,
+  "ffprobe_path": null,
+  "show_advanced": false,
+  "log_visible": false,
+  "ext_manager_maximized": false,
+  "ext_manager_width": 980,
+  "ext_manager_height": 680,
+  "ext_manager_x": 305,
+  "ext_manager_y": 88
+}

@@ -1,0 +1,57 @@
+# Build outputs
+dist/
+build/
+bin/
+output/
+quarantine/
+*.vmte
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Environment
+.env
+.env.local
+*.db
+*.sqlite
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.flac
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Installer artifacts
+installer/
+*.exe
+*.msi
+*.dmg
+
+# Build scripts
+*.bat
+*.ps1
+*.sh
